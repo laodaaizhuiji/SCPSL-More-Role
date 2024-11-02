@@ -3,6 +3,7 @@ This is an SCP:SL plugin using exiled, version 8.9.11
 This plugin supports two languages namely Chinese and English, and you can get the plugin in different languages in the release
 There are five new role.They are scp-181,scp-999,scp-3035,scp-008 and the only humanoid character plug-in: Dr. Clef
 They will have different effects.
+You can use some command to spawn these role in RemoteAdminCommand
 I'm going to introduce you to these plugins next
 scp181
 You have a chance to be immune to damage,You can open the door directly
@@ -19,6 +20,7 @@ Take up to 30 damage, the target of all SCP objects.
 此插件支持中文和英文两种语言，您可以在发布中获取不同语言的插件
 有五个新角色。他们是 SCP-181、SCP-999、SCP-3035、SCP-008 和唯一的人形角色插件：Clef 博士
 它们将产生不同的效果。
+您可以使用一些命令在RA远程管理员面板中生成这些角色
 接下来我将向您介绍这些插件
 SCP181
 你有几率免疫伤害，可以直接开门
